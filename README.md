@@ -55,7 +55,7 @@ Voice Input → Speech-to-Text (Whisper) → NLP Processing (LLM) → API Execut
 
 ## 🏅 Certification
 
-🏆 [View Hackathon Certificate](Certificate.pdf)
+🏆 [View Hackathon Certificate](Hackathon_Certificate.pdf)
 
 ---
 
