@@ -49,13 +49,13 @@ Voice Input → Speech-to-Text (Whisper) → NLP Processing (LLM) → API Execut
 
 ## 📊 Project Presentation
 
-📄 [View Project PPT](./OrderGenie_PPT.pdf)
+📄 [View Project PPT](OrderGenie_PPT.pdf)
 
 ---
 
 ## 🏅 Certification
 
-🏆 [View Hackathon Certificate](./Certificate.pdf)
+🏆 [View Hackathon Certificate](Certificate.pdf)
 
 ---
 
